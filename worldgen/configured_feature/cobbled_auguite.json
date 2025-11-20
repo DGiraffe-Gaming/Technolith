@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 12,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "technolith:augite"
+          }
+        },
+        "state": {
+          "Name": "technolith:cobbled_auguite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:deepslate",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "state": {
+          "Name": "technolith:cobbled_auguite"
+        }
+      }
+    ]
+  }
+}

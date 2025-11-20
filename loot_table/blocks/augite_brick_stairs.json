@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "technolith:blocks/augite_brick_stairs",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "technolith:augite_brick_stairs"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "technolith:blocks/inventory_link_node",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "technolith:inventory_link_node"
+        }
+      ]
+    }
+  ]
+}

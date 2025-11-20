@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "technolith:blocks/chiseled_augite",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "technolith:chiseled_augite"
+        }
+      ]
+    }
+  ]
+}

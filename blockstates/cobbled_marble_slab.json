@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "technolith:block/cobbled_marble_slab"
+    },
+    "type=top": {
+      "model": "technolith:block/cobbled_marble_slab_top"
+    },
+    "type=double": {
+      "model": "technolith:block/cobbled_marble_slab_full"
+    }
+  }
+}

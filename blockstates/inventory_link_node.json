@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "technolith:block/inventory_link_node"
+    },
+    "blockstate=1": {
+      "model": "technolith:block/link_states_blockstate_0"
+    }
+  }
+}

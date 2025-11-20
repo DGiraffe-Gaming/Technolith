@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "technolith:block/heavy_redstone_block"
+    }
+  }
+}

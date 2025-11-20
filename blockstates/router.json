@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "technolith:block/router"
+    },
+    "blockstate=1": {
+      "model": "technolith:block/router_states_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "technolith:block/router_states_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "technolith:block/router_states_blockstate_2"
+    }
+  }
+}

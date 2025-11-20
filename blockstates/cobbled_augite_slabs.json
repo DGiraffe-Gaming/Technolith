@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "technolith:block/cobbled_augite_slabs"
+    },
+    "type=top": {
+      "model": "technolith:block/cobbled_augite_slabs_top"
+    },
+    "type=double": {
+      "model": "technolith:block/cobbled_augite_slabs_full"
+    }
+  }
+}

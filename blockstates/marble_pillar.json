@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "technolith:block/marble_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "technolith:block/marble_pillar"
+    },
+    "axis=z": {
+      "model": "technolith:block/marble_pillar",
+      "x": 90
+    }
+  }
+}

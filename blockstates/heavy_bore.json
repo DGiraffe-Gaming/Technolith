@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "technolith:block/heavy_bore"
+    },
+    "blockstate=1": {
+      "model": "technolith:block/heavy_bore_states_blockstate_0"
+    }
+  }
+}

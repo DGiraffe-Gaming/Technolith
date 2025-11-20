@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "technolith:block/polished_augite_slab"
+    },
+    "type=top": {
+      "model": "technolith:block/polished_augite_slab_top"
+    },
+    "type=double": {
+      "model": "technolith:block/polished_augite_slab_full"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "technolith:custom/diamond_drill_particle"
+    },
+    "blockstate=1": {
+      "model": "technolith:block/diamond_drill_blockstate_0"
+    }
+  }
+}

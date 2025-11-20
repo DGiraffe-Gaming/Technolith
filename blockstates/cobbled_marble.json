@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "technolith:block/cobbled_marble"
+    },
+    "blockstate=1": {
+      "model": "technolith:block/cobbled_marble_random_texture_blockstate_0"
+    }
+  }
+}

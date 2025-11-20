@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "technolith:block/burner"
+    },
+    "blockstate=1": {
+      "model": "technolith:block/burner_on_blockstate_0"
+    }
+  }
+}

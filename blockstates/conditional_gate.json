@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "technolith:block/conditional_gate"
+    },
+    "blockstate=1": {
+      "model": "technolith:block/coditional_gate_states_blockstate_0"
+    }
+  }
+}

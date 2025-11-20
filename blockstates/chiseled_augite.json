@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "technolith:block/chiseled_augite"
+    },
+    "facing=east": {
+      "model": "technolith:block/chiseled_augite",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "technolith:block/chiseled_augite",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "technolith:block/chiseled_augite",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "variants": {
+    "facing=north,blockstate=0": {
+      "model": "technolith:block/yellow_striped_carbon"
+    },
+    "facing=east,blockstate=0": {
+      "model": "technolith:block/yellow_striped_carbon",
+      "y": 90
+    },
+    "facing=south,blockstate=0": {
+      "model": "technolith:block/yellow_striped_carbon",
+      "y": 180
+    },
+    "facing=west,blockstate=0": {
+      "model": "technolith:block/yellow_striped_carbon",
+      "y": 270
+    },
+    "facing=north,blockstate=1": {
+      "model": "technolith:block/striped_carbon_blockstate_0"
+    },
+    "facing=east,blockstate=1": {
+      "model": "technolith:block/striped_carbon_blockstate_0",
+      "y": 90
+    },
+    "facing=south,blockstate=1": {
+      "model": "technolith:block/striped_carbon_blockstate_0",
+      "y": 180
+    },
+    "facing=west,blockstate=1": {
+      "model": "technolith:block/striped_carbon_blockstate_0",
+      "y": 270
+    },
+    "facing=north,blockstate=2": {
+      "model": "technolith:block/striped_carbon_blockstate_1"
+    },
+    "facing=east,blockstate=2": {
+      "model": "technolith:block/striped_carbon_blockstate_1",
+      "y": 90
+    },
+    "facing=south,blockstate=2": {
+      "model": "technolith:block/striped_carbon_blockstate_1",
+      "y": 180
+    },
+    "facing=west,blockstate=2": {
+      "model": "technolith:block/striped_carbon_blockstate_1",
+      "y": 270
+    },
+    "facing=north,blockstate=3": {
+      "model": "technolith:block/striped_carbon_blockstate_2"
+    },
+    "facing=east,blockstate=3": {
+      "model": "technolith:block/striped_carbon_blockstate_2",
+      "y": 90
+    },
+    "facing=south,blockstate=3": {
+      "model": "technolith:block/striped_carbon_blockstate_2",
+      "y": 180
+    },
+    "facing=west,blockstate=3": {
+      "model": "technolith:block/striped_carbon_blockstate_2",
+      "y": 270
+    },
+    "facing=north,blockstate=4": {
+      "model": "technolith:block/striped_carbon_blockstate_3"
+    },
+    "facing=east,blockstate=4": {
+      "model": "technolith:block/striped_carbon_blockstate_3",
+      "y": 90
+    },
+    "facing=south,blockstate=4": {
+      "model": "technolith:block/striped_carbon_blockstate_3",
+      "y": 180
+    },
+    "facing=west,blockstate=4": {
+      "model": "technolith:block/striped_carbon_blockstate_3",
+      "y": 270
+    }
+  }
+}

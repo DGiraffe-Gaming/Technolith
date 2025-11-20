@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "technolith:block/soras_vault_portal_ew"
+    },
+    "axis=x": {
+      "model": "technolith:block/soras_vault_portal_ns"
+    }
+  }
+}

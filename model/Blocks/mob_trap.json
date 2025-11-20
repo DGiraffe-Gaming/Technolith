@@ -1,0 +1,10 @@
+{
+  "parent": "technolith:custom/mob_trap_unpowered",
+  "textures": {
+    "all": "technolith:block/ancient_computer_face_unpowered",
+    "particle": "technolith:block/ancient_computer_face_unpowered",
+    "0": "technolith:block/ancient_computer_face_unpowered",
+    "1": "technolith:block/vaultear_portal_block_blank_side"
+  },
+  "render_type": "solid"
+}

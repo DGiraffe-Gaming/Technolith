@@ -1,0 +1,6 @@
+{
+  "parent": "technolith:custom/diamond_drill_particle",
+  "textures": {
+    "particle": "technolith:block/steel_drill_powered"
+  }
+}

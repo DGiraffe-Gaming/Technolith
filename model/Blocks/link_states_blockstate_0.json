@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "technolith:block/stockpile",
+    "up": "technolith:block/inventory_link_node",
+    "north": "technolith:block/inventory_link_node",
+    "east": "technolith:block/inventory_link_node",
+    "south": "technolith:block/inventory_link_node",
+    "west": "technolith:block/inventory_link_node",
+    "particle": "technolith:block/stockpile"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "particle": "technolith:block/polished_marble_2",
+    "bottom": "technolith:block/polished_marble_2",
+    "top": "technolith:block/polished_marble_2",
+    "side": "technolith:block/polished_marble_2"
+  },
+  "render_type": "solid"
+}

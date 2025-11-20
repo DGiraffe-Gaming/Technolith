@@ -1,0 +1,10 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "technolith:block/cobbled_augite",
+    "bottom": "technolith:block/cobbled_augite",
+    "top": "technolith:block/cobbled_augite",
+    "side": "technolith:block/cobbled_augite"
+  },
+  "render_type": "solid"
+}

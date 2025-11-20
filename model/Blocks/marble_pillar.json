@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "technolith:block/marble_pillar_top",
+    "up": "technolith:block/marble_pillar_top",
+    "north": "technolith:block/piller_marble_side",
+    "east": "technolith:block/piller_marble_side",
+    "south": "technolith:block/piller_marble_side",
+    "west": "technolith:block/piller_marble_side",
+    "particle": "technolith:block/marble_pillar_top"
+  },
+  "render_type": "solid"
+}

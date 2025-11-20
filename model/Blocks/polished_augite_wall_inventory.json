@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "technolith:block/polsihed_augite",
+    "particle": "technolith:block/polsihed_augite"
+  },
+  "render_type": "solid"
+}

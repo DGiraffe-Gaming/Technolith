@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "technolith:block/bore_face",
+    "up": "technolith:block/bore_top",
+    "north": "technolith:block/bore_side_powered",
+    "east": "technolith:block/bore_side_powered",
+    "south": "technolith:block/bore_side_powered",
+    "west": "technolith:block/bore_side_powered",
+    "particle": "technolith:block/bore_side_powered"
+  },
+  "render_type": "solid"
+}

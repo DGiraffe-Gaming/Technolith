@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "technolith:block/andesite_pillar_top",
+    "up": "technolith:block/andesite_pillar_top",
+    "north": "technolith:block/andesite_pillar",
+    "east": "technolith:block/andesite_pillar",
+    "south": "technolith:block/andesite_pillar",
+    "west": "technolith:block/andesite_pillar",
+    "particle": "technolith:block/andesite_pillar_top"
+  },
+  "render_type": "solid"
+}

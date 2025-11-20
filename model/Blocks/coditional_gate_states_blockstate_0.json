@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "technolith:block/redstone_link_side_on",
+    "up": "technolith:block/redstone_link_side_on",
+    "north": "technolith:block/active_conditional_link",
+    "east": "technolith:block/active_conditional_link",
+    "south": "technolith:block/active_conditional_link",
+    "west": "technolith:block/active_conditional_link",
+    "particle": "technolith:block/redstone_link_side"
+  },
+  "render_type": "solid"
+}

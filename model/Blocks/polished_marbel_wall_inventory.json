@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "technolith:block/polished_marble_2",
+    "particle": "technolith:block/polished_marble_2"
+  },
+  "render_type": "solid"
+}

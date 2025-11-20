@@ -1,0 +1,10 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "particle": "technolith:block/polsihed_augite",
+    "bottom": "technolith:block/polsihed_augite",
+    "top": "technolith:block/polsihed_augite",
+    "side": "technolith:block/polsihed_augite"
+  },
+  "render_type": "solid"
+}

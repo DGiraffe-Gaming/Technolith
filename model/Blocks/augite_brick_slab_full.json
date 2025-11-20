@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "technolith:block/polished_augite_bricks",
+    "bottom": "technolith:block/polished_augite_bricks",
+    "top": "technolith:block/polished_augite_bricks",
+    "side": "technolith:block/polished_augite_bricks"
+  },
+  "render_type": "solid"
+}

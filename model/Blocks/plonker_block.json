@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "technolith:block/redstone_link_side",
+    "up": "technolith:block/redstone_link_side",
+    "north": "technolith:block/plonker_unpowered",
+    "east": "technolith:block/redstone_link_side",
+    "south": "technolith:block/redstone_link_side",
+    "west": "technolith:block/redstone_link_side",
+    "particle": "technolith:block/redstone_link_side"
+  },
+  "render_type": "solid"
+}

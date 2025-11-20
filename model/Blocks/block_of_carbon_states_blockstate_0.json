@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "technolith:block/unbordered_carbon_block",
+    "up": "technolith:block/unbordered_carbon_block",
+    "north": "technolith:block/unbordered_carbon_block",
+    "east": "technolith:block/unbordered_carbon_block",
+    "south": "technolith:block/unbordered_carbon_block",
+    "west": "technolith:block/unbordered_carbon_block",
+    "particle": "technolith:block/carbon_block"
+  },
+  "render_type": "solid"
+}

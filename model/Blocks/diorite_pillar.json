@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "technolith:block/diorite_pillar_top",
+    "up": "technolith:block/diorite_pillar_top",
+    "north": "technolith:block/diorite_pillar",
+    "east": "technolith:block/diorite_pillar",
+    "south": "technolith:block/diorite_pillar",
+    "west": "technolith:block/diorite_pillar",
+    "particle": "technolith:block/diorite_pillar_top"
+  },
+  "render_type": "solid"
+}

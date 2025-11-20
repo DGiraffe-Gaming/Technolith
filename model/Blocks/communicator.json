@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "technolith:block/ancient_computer_face_unpowered",
+    "up": "technolith:block/ancient_computer_face_unpowered",
+    "north": "technolith:block/comunicator_off",
+    "east": "technolith:block/vaultear_portal_block_blank_side",
+    "south": "technolith:block/vaultear_portal_block_blank_side",
+    "west": "technolith:block/vaultear_portal_block_blank_side",
+    "particle": "technolith:block/ancient_computer_face_unpowered"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "technolith:block/polsihed_augite",
+    "up": "technolith:block/polsihed_augite",
+    "north": "technolith:block/polsihed_augite",
+    "east": "technolith:block/polsihed_augite",
+    "south": "technolith:block/polsihed_augite",
+    "west": "technolith:block/polsihed_augite",
+    "particle": "technolith:block/polsihed_augite"
+  },
+  "render_type": "solid"
+}

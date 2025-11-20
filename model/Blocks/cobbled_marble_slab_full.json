@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "technolith:block/cobbled_marble",
+    "bottom": "technolith:block/cobbled_marble",
+    "top": "technolith:block/cobbled_marble",
+    "side": "technolith:block/cobbled_marble"
+  },
+  "render_type": "solid"
+}

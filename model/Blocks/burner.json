@@ -1,0 +1,10 @@
+{
+  "parent": "technolith:custom/burner",
+  "textures": {
+    "all": "technolith:block/burner_off",
+    "particle": "technolith:block/burner_off",
+    "0": "technolith:block/burner_off",
+    "1": "technolith:block/vaultear_portal_block_blank_side"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "technolith:custom/harvester_particle",
+  "textures": {
+    "particle": "technolith:block/redstone_link_side_on"
+  }
+}

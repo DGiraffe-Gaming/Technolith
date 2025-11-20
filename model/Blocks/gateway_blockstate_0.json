@@ -1,0 +1,10 @@
+{
+  "parent": "technolith:custom/electronic_gateway_off",
+  "textures": {
+    "all": "technolith:block/electronic_gateway_face_off",
+    "particle": "technolith:block/electronic_gateway_face_off",
+    "2": "technolith:block/electronic_gateway_face_off",
+    "3": "technolith:block/steel_block"
+  },
+  "render_type": "translucent"
+}

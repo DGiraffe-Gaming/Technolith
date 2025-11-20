@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "technolith:red_technology",
+    "technolith:pink_technology",
+    "technolith:blue_technology",
+    "technolith:green_technology",
+    "technolith:yellow_technology"
+  ]
+}

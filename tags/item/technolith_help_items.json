@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "technolith:ancienttechnology",
+    "technolith:mob_trap",
+    "technolith:conveyor",
+    "technolith:communicator",
+    "technolith:burner",
+    "technolith:red_technology",
+    "technolith:pink_technology",
+    "technolith:blue_technology",
+    "technolith:green_technology",
+    "technolith:yellow_technology",
+    "technolith:redstone_link",
+    "technolith:steel_drill",
+    "technolith:iron_drill",
+    "technolith:slave",
+    "technolith:diamond_drill",
+    "technolith:plonker_block",
+    "technolith:harvester",
+    "technolith:heavy_redstone_block",
+    "technolith:heavy_bore",
+    "technolith:restone_gateway",
+    "technolith:saw",
+    "technolith:router",
+    "technolith:stockpile",
+    "technolith:stockpile_access"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "augite_pillar",
+  "category": "building",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:polished_augite_slab"
+    },
+    "b": {
+      "item": "technolith:polished_augite"
+    }
+  },
+  "result": {
+    "id": "technolith:augite_pillar",
+    "count": 2
+  }
+}

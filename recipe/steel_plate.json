@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "steel_plating",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:steel_ingot"
+    }
+  },
+  "result": {
+    "id": "technolith:steel_plating",
+    "count": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "steel_ingot",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "technolith:refined_carbon"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    {
+      "item": "technolith:refined_carbon"
+    }
+  ],
+  "result": {
+    "id": "technolith:steel_ingot",
+    "count": 2
+  }
+}

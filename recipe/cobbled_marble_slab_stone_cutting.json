@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "cobbled_marble_slab",
+  "ingredient": {
+    "item": "technolith:cobbled_marble"
+  },
+  "result": {
+    "id": "technolith:cobbled_marble_slab",
+    "count": 2
+  }
+}

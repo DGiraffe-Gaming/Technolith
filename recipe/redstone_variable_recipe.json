@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "redstone_variable",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "technolith:heavy_redstone_block"
+    },
+    "c": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "id": "technolith:redstone_variable",
+    "count": 1
+  }
+}

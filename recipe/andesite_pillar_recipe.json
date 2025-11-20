@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "andesite_pillar",
+  "category": "building",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:polished_andesite_slab"
+    },
+    "b": {
+      "item": "minecraft:polished_andesite"
+    }
+  },
+  "result": {
+    "id": "technolith:andesite_pillar",
+    "count": 2
+  }
+}

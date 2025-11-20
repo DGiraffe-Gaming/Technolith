@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "tuff_pillar",
+  "category": "building",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:polished_tuff_slab"
+    },
+    "b": {
+      "item": "minecraft:polished_tuff"
+    }
+  },
+  "result": {
+    "id": "technolith:tuff_pillar",
+    "count": 2
+  }
+}

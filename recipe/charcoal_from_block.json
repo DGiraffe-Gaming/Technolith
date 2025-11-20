@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "charcoal",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:block_of_charcoal"
+    }
+  },
+  "result": {
+    "id": "minecraft:charcoal",
+    "count": 9
+  }
+}

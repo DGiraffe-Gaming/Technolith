@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "steel_ingot",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "technolith:steel_block"
+    }
+  ],
+  "result": {
+    "id": "technolith:steel_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "redstone_saw",
+  "category": "redstone",
+  "pattern": [
+    " a ",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:sawblade"
+    },
+    "b": {
+      "item": "technolith:steel_plating"
+    },
+    "c": {
+      "item": "technolith:ancienttechnology"
+    }
+  },
+  "result": {
+    "id": "technolith:saw",
+    "count": 1
+  }
+}

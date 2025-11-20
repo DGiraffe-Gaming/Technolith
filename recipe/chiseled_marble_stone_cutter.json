@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "chiseled_marble",
+  "ingredient": {
+    "tag": "technolith:marble_base_blocks"
+  },
+  "result": {
+    "id": "technolith:chiseled_marble",
+    "count": 1
+  }
+}

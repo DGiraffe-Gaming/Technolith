@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "polished_augite_slab",
+  "ingredient": {
+    "tag": "technolith:augite_base_blocks"
+  },
+  "result": {
+    "id": "technolith:polished_augite_slab",
+    "count": 2
+  }
+}

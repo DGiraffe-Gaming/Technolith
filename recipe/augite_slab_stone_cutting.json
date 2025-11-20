@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "augite_stairs",
+  "ingredient": {
+    "item": "technolith:augite"
+  },
+  "result": {
+    "id": "technolith:augite_slabs",
+    "count": 2
+  }
+}

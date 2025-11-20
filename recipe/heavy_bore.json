@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "heavy_bore",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "cdc",
+    "ada"
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:augite_brick"
+    },
+    "b": {
+      "item": "technolith:ancienttechnology"
+    },
+    "c": {
+      "item": "technolith:steel_plating"
+    },
+    "d": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "id": "technolith:heavy_bore",
+    "count": 1
+  }
+}

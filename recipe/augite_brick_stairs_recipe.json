@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "augite_brick_stairs",
+  "category": "building",
+  "pattern": [
+    "  a",
+    " aa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:augite_bricks"
+    }
+  },
+  "result": {
+    "id": "technolith:augite_brick_stairs",
+    "count": 4
+  }
+}

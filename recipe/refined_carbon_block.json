@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "refined_carbon_block",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:refined_carbon"
+    }
+  },
+  "result": {
+    "id": "technolith:block_of_carbon",
+    "count": 1
+  }
+}

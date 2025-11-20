@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ancient_technology",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:redstone"
+    },
+    "b": {
+      "item": "technolith:steel_plating"
+    },
+    "c": {
+      "item": "technolith:ancienttechnology"
+    }
+  },
+  "result": {
+    "id": "technolith:ancienttechnology",
+    "count": 5
+  }
+}

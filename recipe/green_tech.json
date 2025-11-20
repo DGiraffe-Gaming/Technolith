@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "green_technology",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "technolith:ancienttechnology"
+    },
+    {
+      "item": "minecraft:lime_dye"
+    }
+  ],
+  "result": {
+    "id": "technolith:green_technology",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "polished_marble",
+  "ingredient": {
+    "item": "technolith:marble"
+  },
+  "result": {
+    "id": "technolith:polished_marble",
+    "count": 1
+  }
+}

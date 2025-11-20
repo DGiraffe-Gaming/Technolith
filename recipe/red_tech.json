@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "red_technology",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "technolith:ancienttechnology"
+    },
+    {
+      "item": "minecraft:red_dye"
+    }
+  ],
+  "result": {
+    "id": "technolith:red_technology",
+    "count": 1
+  }
+}

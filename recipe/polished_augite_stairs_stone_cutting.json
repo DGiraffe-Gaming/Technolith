@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "polished_augite_stairs",
+  "ingredient": {
+    "tag": "technolith:augite_base_blocks"
+  },
+  "result": {
+    "id": "technolith:polished_augite_stairs",
+    "count": 1
+  }
+}

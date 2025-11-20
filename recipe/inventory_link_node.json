@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "inventory_link_node",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "aca",
+    "ada"
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:steel_ingot"
+    },
+    "b": {
+      "item": "minecraft:lightning_rod"
+    },
+    "c": {
+      "item": "technolith:location_chip"
+    },
+    "d": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "id": "technolith:inventory_link_node",
+    "count": 1
+  }
+}

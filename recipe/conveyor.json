@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "conveyor",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:steel_plating"
+    },
+    "b": {
+      "item": "minecraft:dried_kelp"
+    },
+    "c": {
+      "item": "minecraft:redstone"
+    },
+    "d": {
+      "item": "technolith:steel_casing"
+    }
+  },
+  "result": {
+    "id": "technolith:conveyor",
+    "count": 4
+  }
+}

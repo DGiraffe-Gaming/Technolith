@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "pattern": [
+    " a ",
+    "bcb",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:iron_drill"
+    },
+    "b": {
+      "item": "technolith:steel_plating"
+    },
+    "c": {
+      "item": "technolith:steel_ingot"
+    }
+  },
+  "result": {
+    "id": "technolith:steel_drill",
+    "count": 1
+  }
+}

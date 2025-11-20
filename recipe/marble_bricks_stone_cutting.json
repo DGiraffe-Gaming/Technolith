@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "marble_bricks",
+  "ingredient": {
+    "tag": "technolith:marble_base_blocks"
+  },
+  "result": {
+    "id": "technolith:marble_bricks",
+    "count": 1
+  }
+}

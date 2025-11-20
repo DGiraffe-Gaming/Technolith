@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "pink_technology",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "technolith:ancienttechnology"
+    },
+    {
+      "item": "minecraft:pink_dye"
+    }
+  ],
+  "result": {
+    "id": "technolith:pink_technology",
+    "count": 1
+  }
+}

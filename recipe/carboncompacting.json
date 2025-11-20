@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "refined_carbon",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "technolith:carbon"
+    },
+    {
+      "item": "technolith:carbon"
+    },
+    {
+      "item": "technolith:carbon"
+    },
+    {
+      "item": "technolith:carbon"
+    }
+  ],
+  "result": {
+    "id": "technolith:refined_carbon",
+    "count": 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "polished_augite",
+  "ingredient": {
+    "item": "technolith:augite"
+  },
+  "result": {
+    "id": "technolith:polished_augite",
+    "count": 1
+  }
+}

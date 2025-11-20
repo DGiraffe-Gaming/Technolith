@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "block_plonker",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "bcd",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:steel_ingot"
+    },
+    "b": {
+      "item": "technolith:steel_plating"
+    },
+    "c": {
+      "item": "technolith:ancienttechnology"
+    },
+    "d": {
+      "item": "minecraft:dispenser"
+    }
+  },
+  "result": {
+    "id": "technolith:plonker_block",
+    "count": 1
+  }
+}

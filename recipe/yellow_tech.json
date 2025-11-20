@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "yellow_technology",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "technolith:ancienttechnology"
+    },
+    {
+      "item": "minecraft:yellow_dye"
+    }
+  ],
+  "result": {
+    "id": "technolith:yellow_technology",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "polished_augite",
+  "category": "building",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:augite"
+    }
+  },
+  "result": {
+    "id": "technolith:polished_augite",
+    "count": 1
+  }
+}

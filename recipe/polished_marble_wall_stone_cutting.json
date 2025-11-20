@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "polished_marble_wall",
+  "ingredient": {
+    "tag": "technolith:marble_base_blocks"
+  },
+  "result": {
+    "id": "technolith:polished_marbel_wall",
+    "count": 1
+  }
+}

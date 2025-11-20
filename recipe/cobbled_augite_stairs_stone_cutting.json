@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "cobbled_augite_stairs",
+  "ingredient": {
+    "item": "technolith:cobbled_auguite"
+  },
+  "result": {
+    "id": "technolith:cobbled_augite_stairs",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "augite_brick_slab",
+  "ingredient": {
+    "item": "technolith:augite_bricks"
+  },
+  "result": {
+    "id": "technolith:augite_brick_slab",
+    "count": 2
+  }
+}

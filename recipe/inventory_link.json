@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "inventory_link",
+  "category": "redstone",
+  "pattern": [
+    "  a",
+    "bcb",
+    "bdb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:lightning_rod"
+    },
+    "b": {
+      "item": "technolith:steel_ingot"
+    },
+    "c": {
+      "item": "technolith:glass_shard"
+    },
+    "d": {
+      "item": "technolith:blue_technology"
+    }
+  },
+  "result": {
+    "id": "technolith:link_pad",
+    "count": 1
+  }
+}

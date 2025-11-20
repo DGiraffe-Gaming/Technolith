@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "cobbled_marble_stairs",
+  "ingredient": {
+    "item": "technolith:cobbled_marble"
+  },
+  "result": {
+    "id": "technolith:cobbled_marble_stairs",
+    "count": 1
+  }
+}

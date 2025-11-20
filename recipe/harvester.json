@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "harvester",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "c c",
+    "ddd"
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:steel_casing"
+    },
+    "b": {
+      "item": "minecraft:redstone"
+    },
+    "c": {
+      "item": "technolith:steel_plating"
+    },
+    "d": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "technolith:harvester",
+    "count": 1
+  }
+}

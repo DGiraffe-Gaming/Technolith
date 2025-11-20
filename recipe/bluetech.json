@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "blue_technology",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "technolith:ancienttechnology"
+    },
+    {
+      "item": "minecraft:light_blue_dye"
+    }
+  ],
+  "result": {
+    "id": "technolith:blue_technology",
+    "count": 1
+  }
+}

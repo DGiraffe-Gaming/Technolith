@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "augite_brick_slab",
+  "category": "building",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:augite_bricks"
+    }
+  },
+  "result": {
+    "id": "technolith:augite_brick_slab",
+    "count": 6
+  }
+}

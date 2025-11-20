@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "augite_pillar",
+  "ingredient": {
+    "tag": "technolith:augite_base_blocks"
+  },
+  "result": {
+    "id": "technolith:augite_pillar",
+    "count": 1
+  }
+}

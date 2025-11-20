@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "slave",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "bcb",
+    "ada"
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:steel_ingot"
+    },
+    "b": {
+      "item": "technolith:steel_plating"
+    },
+    "c": {
+      "item": "technolith:blue_technology"
+    },
+    "d": {
+      "item": "minecraft:comparator"
+    }
+  },
+  "result": {
+    "id": "technolith:slave",
+    "count": 1
+  }
+}

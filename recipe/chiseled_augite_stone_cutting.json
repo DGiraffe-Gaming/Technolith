@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "chiseled_augite",
+  "ingredient": {
+    "tag": "technolith:augite_base_blocks"
+  },
+  "result": {
+    "id": "technolith:chiseled_augite",
+    "count": 1
+  }
+}

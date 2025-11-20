@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "granite_pillar",
+  "category": "building",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:polished_granite_slab"
+    },
+    "b": {
+      "item": "minecraft:polished_granite"
+    }
+  },
+  "result": {
+    "id": "technolith:granite_pillar",
+    "count": 2
+  }
+}

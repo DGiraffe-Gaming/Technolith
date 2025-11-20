@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "steel_casing",
+  "category": "redstone",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:steel_plating"
+    },
+    "b": {
+      "item": "technolith:iron_frame"
+    }
+  },
+  "result": {
+    "id": "technolith:steel_casing",
+    "count": 1
+  }
+}

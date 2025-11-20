@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "carbon",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "technolith:ash"
+    },
+    {
+      "item": "minecraft:charcoal"
+    },
+    {
+      "item": "minecraft:charcoal"
+    },
+    {
+      "item": "technolith:ash"
+    }
+  ],
+  "result": {
+    "id": "technolith:carbon",
+    "count": 4
+  }
+}

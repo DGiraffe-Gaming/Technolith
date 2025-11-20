@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "comunicator",
+  "category": "redstone",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aea"
+  ],
+  "key": {
+    "a": {
+      "item": "technolith:steel_plating"
+    },
+    "b": {
+      "item": "minecraft:lightning_rod"
+    },
+    "c": {
+      "item": "minecraft:redstone"
+    },
+    "d": {
+      "item": "technolith:steel_casing"
+    },
+    "e": {
+      "item": "technolith:ancienttechnology"
+    }
+  },
+  "result": {
+    "id": "technolith:communicator",
+    "count": 1
+  }
+}

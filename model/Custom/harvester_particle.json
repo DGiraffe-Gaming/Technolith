@@ -1,0 +1,6 @@
+{
+  "parent": "technolith:displaysettings/havester_display",
+  "textures": {
+    "particle": "technolith:block/vaultear_portal_block_blank_side"
+  }
+}

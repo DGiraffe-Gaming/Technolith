@@ -1,0 +1,6 @@
+{
+  "parent": "technolith:displaysettings/redstone_saw_display",
+  "textures": {
+    "particle": "technolith:block/redstone_link_side"
+  }
+}

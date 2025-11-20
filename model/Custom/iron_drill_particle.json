@@ -1,0 +1,6 @@
+{
+  "parent": "technolith:displaysettings/drill_display",
+  "textures": {
+    "particle": "technolith:block/drill"
+  }
+}

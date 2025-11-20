@@ -1,0 +1,6 @@
+{
+  "parent": "technolith:displaysettings/hopper_side_display",
+  "textures": {
+    "particle": "technolith:block/vaultear_portal_block_blank_side"
+  }
+}
